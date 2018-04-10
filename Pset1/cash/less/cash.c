@@ -50,5 +50,5 @@ int main(void)
     }
 
     printf("Change in each coin:\n - quaters %i\n - dimes %i\n - nickels %i\n - pennys %i\n", quaters, dimes, nickels, pennys);
-    printf("Here is your coins total: %i\n", coins);
+    printf("Total number of coins: %i\n", coins);
 }

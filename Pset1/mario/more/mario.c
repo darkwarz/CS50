@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 /*
-made by Jabier  Espinal
-Career devs student / cs50 student - 4/7/2018
+made by Jabier  Espinal 4/7/2018
 */
 int main(void)
 {
